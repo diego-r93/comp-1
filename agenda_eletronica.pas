@@ -1,4 +1,4 @@
-program tabalho2_2005_2;
+program tabalho2_2015_2;
 
 {Autor: Diego Rodrigues da Silva - DRE: 115034285}
 
